@@ -5,6 +5,7 @@ help() {
     echo "命令:"
     echo "  modify    默认操作，修改插件更新中心为国内镜像"
     echo "  rollback  回滚修改操作"
+    echo "  help      打印本帮助信息"
 }
 
 getJenkinsHome() {
